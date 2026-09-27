@@ -1,0 +1,7 @@
+# 只需要上传 public/ 和 vercel.json，原始 DMG 有 1.4GB，不能上传
+Resources
+tools
+.venv
+start.command
+*.dmg
+.DS_Store

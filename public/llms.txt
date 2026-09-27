@@ -1,0 +1,53 @@
+# 带壳截图
+
+> 免费在线工具：给 iPhone 截图加上 Apple 官方手机边框，一键生成带壳截图 / iPhone 样机图（mockup）。支持 iPhone 11 到 iPhone 18、iPhone Air、iPhone Duo，横屏竖屏和全部官方配色。图片只在浏览器本地处理，不会上传到服务器。
+
+## 能做什么
+
+- iPhone 截图生成带壳效果图：把 iOS 截图套进官方 iPhone 外框，得到带手机边框的截图
+- 制作 App Store 截图、应用商店宣传图、产品演示图、设计稿展示、社交媒体配图
+- 拖入截图、点击选择文件，或直接 ⌘V / Ctrl+V 粘贴截图
+- 批量处理多张截图，一次打包下载 ZIP
+- 按截图分辨率自动识别机型，例如 1206×2622 自动匹配 iPhone 18 Pro / iPhone 17 Pro
+- 横屏截图自动换成横屏边框，可选机身顶部（灵动岛）朝左或朝右
+- 截图比例不一致时可选填充裁切、完整显示或拉伸
+- 导出透明背景 PNG 或 JPG，可加背景色、留白、投影阴影，也可以复制到剪贴板
+- 截图尺寸与屏幕一致时按原像素贴合，不压缩、不模糊
+
+## 支持的机型和颜色
+
+- iPhone Duo（内屏 / 外屏 / 展开 · 背面）：夜空色、星白色
+- iPhone 18 Pro Max、iPhone 18 Pro：黑色、酒红色、冰川色、银色
+- iPhone 17 Pro Max、iPhone 17 Pro：星宇橙色、深墨蓝色、银色
+- iPhone Air：云白色、浅金色、天蓝色、深空黑色
+- iPhone 17：黑色、薰衣草紫色、青雾蓝色、鼠尾草绿色、白色
+- iPhone 16 Pro Max、iPhone 16 Pro：黑色钛金属、沙漠色钛金属、原色钛金属、白色钛金属
+- iPhone 16 Plus、iPhone 16：黑色、粉色、深青色、群青色、白色
+- iPhone 15 Pro Max、iPhone 15 Pro：黑色钛金属、蓝色钛金属、原色钛金属、白色钛金属
+- iPhone 15 Plus、iPhone 15：黑色、蓝色、绿色、粉色、黄色
+- iPhone 14 Pro Max、iPhone 14 Pro：暗紫色、金色、银色、深空黑色
+- iPhone 14 Plus、iPhone 14：蓝色、午夜色、紫色、红色、星光色
+- iPhone 13 Pro Max、iPhone 13 Pro：石墨色、银色
+- iPhone 13、iPhone 13 mini：午夜色、星光色
+- iPhone 12 Pro Max、iPhone 12 Pro：银色
+- iPhone 12、iPhone 12 mini：白色
+- iPhone 11 Pro Max、iPhone 11 Pro：深空灰色
+- iPhone 11：白色
+
+## 搜索关键词
+
+iPhone 截图生成、iPhone 截图加壳、带壳截图、截图套壳、截图加手机壳、手机截图加边框、截图加外框、截图带手机框、iPhone 边框、iPhone 外框、iPhone 样机、手机样机生成、样机图在线生成、iPhone mockup、苹果截图美化、手机截图美化、App Store 截图制作、应用商店截图生成、iOS 截图边框、灵动岛截图、横屏截图边框、iPhone 17 Pro 样机、iPhone 17 Pro Max 边框、iPhone 16 Pro 样机、iPhone Air 边框、iPhone 18 Pro 样机、iPhone 截图 PNG 透明背景、在线手机框、免费截图加壳工具
+
+## English
+
+Free online iPhone mockup generator. Add official Apple device frames (bezels) to iOS screenshots in the browser: portrait and landscape, every official color, batch export to PNG or ZIP. Nothing is uploaded.
+
+Keywords: iPhone mockup generator, iPhone frame for screenshots, add iPhone frame to screenshot, device frame, screenshot bezel, App Store screenshot mockup, iOS screenshot frame, iPhone 17 Pro mockup, iPhone 16 Pro frame, iPhone Air mockup, transparent PNG mockup.
+
+## 隐私
+
+所有处理都在浏览器里完成，截图不会离开你的设备。
+
+## 素材来源
+
+边框图片来自 Apple 官方 Product Bezels 设计资源，版权归 Apple Inc. 所有。

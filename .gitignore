@@ -1,0 +1,6 @@
+# Apple 原始 DMG 体积大（单个超过 GitHub 100MB 限制），只在本地保留
+Resources/*.dmg
+.venv/
+.vercel/
+.DS_Store
+__pycache__/
